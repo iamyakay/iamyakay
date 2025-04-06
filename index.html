@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DiabloLux | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0d0d0d;
+      color: white;
+      display: flex;
+      flex-wrap: wrap;
+      min-height: 100vh;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .sidebar {
+      background: linear-gradient(to bottom right, #0f0f0f, #1a1a1a);
+      padding: 40px 20px;
+      width: 100%;
+      max-width: 300px;
+      text-align: center;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.02);
+      position: sticky;
+      top: 0;
+      height: 100vh;
+    }
+
+    .sidebar::before {
+      content: '';
+      display: block;
+      width: 100px;
+      height: 100px;
+      background: url('logo.png') no-repeat center center / contain;
+      margin: 0 auto 20px;
+    }
+
+    .sidebar h2 {
+      margin: 10px 0 5px;
+      font-size: 24px;
+    }
+
+    .sidebar p {
+      color: #bbb;
+      font-size: 14px;
+      margin: 5px 0;
+    }
+
+    .sidebar a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      display: block;
+      margin-top: 10px;
+    }
+
+    .main {
+      flex: 1;
+      padding: 40px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .main h1 {
+      font-size: 40px;
+      margin-bottom: 30px;
+      border-left: 4px solid #ff3366;
+      padding-left: 10px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background-color: #1a1a1a;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 10px 30px rgba(255, 51, 102, 0.2);
+      filter: brightness(1.2);
+    }
+
+    .card:active {
+      transform: scale(0.98);
+      box-shadow: 0 5px 20px rgba(255, 51, 102, 0.3);
+    }
+
+    .card.floating {
+      animation: float 0.5s ease-out;
+    }
+
+    @keyframes float {
+      0% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      50% {
+        transform: translateY(-10px);
+        opacity: 0.5;
+      }
+      100% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    @media (max-width: 768px) {
+      body {
+        flex-direction: column;
+      }
+
+      .sidebar {
+        max-width: 100%;
+        height: auto;
+        padding: 20px;
+        position: relative;
+      }
+
+      .main {
+        padding: 20px;
+      }
+
+      .main h1 {
+        font-size: 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Background Music -->
+  <audio autoplay loop>
+    <source src="his.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>Diablo.Lux</h2>
+    <p>Frontend & Backend Dev</p>
+    <p>Python • HTML • Node.js</p>
+    <a href="https://instagram.com/im.yakay" target="_blank">Instagram: @im.yakay</a>
+    <p>Discord: diablo.lux</p>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main">
+    <h1>Work.</h1>
+    <div class="grid">
+      <div class="card" onclick="addFloatingEffect(this)">
+        <h3>LTC Monitor</h3>
+        <p>Python script to monitor Litecoin transaction.</p>
+      </div>
+      <div class="card" onclick="addFloatingEffect(this)">
+        <h3>Cookie Checker</h3>
+        <p>Tool to check and analyze cookies.</p>
+      </div>
+      <div class="card" onclick="addFloatingEffect(this)">
+        <h3>Vanity Checker</h3>
+        <p>Check members status.</p>
+      </div>
+      <div class="card" onclick="addFloatingEffect(this)">
+        <h3>SMM Bot</h3>
+        <p>Social Media Marketing automation bot.</p>
+      </div>
+      <div class="card" onclick="addFloatingEffect(this)">
+        <h3>Gen Bot</h3>
+        <p>Multi-purpose generator bot for various tasks.</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Function to add floating animation on click
+    function addFloatingEffect(card) {
+      card.classList.add('floating');
+      
+      // Remove the floating class after the animation ends (to allow it to be triggered again on the next click)
+      setTimeout(function() {
+        card.classList.remove('floating');
+      }, 500); // Duration of the animation in ms
+    }
+  </script>
+
+</body>
+</html>

@@ -99,6 +99,8 @@ const zap = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=BUILD.%20SHIP.%20REPEAT.&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=440&lines=%E2%9A%A1+Thanks+for+stopping+by;git+commit+-m+%22see+you+around%22;shipped+from+Zap's+keyboard" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=150&section=footer&text=%E2%9A%A1%20ZAP&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>

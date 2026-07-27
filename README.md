@@ -24,16 +24,15 @@ const zap = {
   name: "Zap",
   username: "iamyakay",
   role: ["Discord Bot Developer", "Web Developer", "Extension Builder"],
-  currentFocus: ["Fuzi Music Bot", "OpenFront Helper", "Protector"],
   languages: ["Python", "JavaScript", "TypeScript", "Lua"],
   motto: "Build. Ship. Repeat.",
 };
 ```
 
-[![Discord Bots](https://img.shields.io/badge/🤖_DISCORD_BOT_DEVELOPMENT-181717?style=flat-square)](https://github.com/iamyakay/ggbalcony)
-[![Extensions](https://img.shields.io/badge/🧩_BROWSER_EXTENSIONS-181717?style=flat-square)](https://github.com/iamyakay/openfront-helper)
-[![Web](https://img.shields.io/badge/🌐_WEB_DEVELOPMENT-181717?style=flat-square)](https://github.com/iamyakay?tab=repositories)
-[![Automation](https://img.shields.io/badge/⚙️_AUTOMATION_%26_TOOLS-181717?style=flat-square)](https://github.com/iamyakay?tab=repositories)
+![Discord Bots](https://img.shields.io/badge/🤖_DISCORD_BOT_DEVELOPMENT-181717?style=flat-square)
+![Extensions](https://img.shields.io/badge/🧩_BROWSER_EXTENSIONS-181717?style=flat-square)
+![Web](https://img.shields.io/badge/🌐_WEB_DEVELOPMENT-181717?style=flat-square)
+![Automation](https://img.shields.io/badge/⚙️_AUTOMATION_%26_TOOLS-181717?style=flat-square)
 
 </div>
 
@@ -70,7 +69,7 @@ const zap = {
 
 | 🤖 Discord Bots | 🧩 Browser Extensions | 🌐 Web Systems |
 |:---:|:---:|:---:|
-| Music bots with Lavalink, audio filters & dashboards. Moderation bots with automod & mass-mod tools. | Game helper overlays, lobby auto-join with statistical forecasting, prediction systems. | Dashboards, quiz apps and sites with React + TypeScript or plain HTML/CSS/JS. |
+| Advanced bot systems, commands, moderation flows and server utilities. | Game helper overlays, automation and prediction systems for the browser. | Modern websites, dashboards and UI built with React + TypeScript or plain HTML/CSS/JS. |
 
 </div>
 

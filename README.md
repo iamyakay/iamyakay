@@ -1,60 +1,105 @@
 <div align="center">
 
-# Hey, I'm Zap ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ZAP&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Discord%20Bot%20Developer%20%7C%20Web%20Developer%20%7C%20Extension%20Builder&descAlignY=75&descSize=16" width="100%"/>
 
-I build Discord bots, browser extensions and web stuff — mostly because I wanted them to exist and nobody else was making them.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=440&lines=Build.+Ship.+Repeat.;Discord+Bots+%7C+Extensions+%7C+Web;Powered+by+Python+%26+JavaScript" alt="Typing SVG" />
 
-</div>
+<br/>
 
-## What I'm working on
-
-**🎵 Fuzi — Discord music bot**
-My biggest project. A Lavalink-powered music bot with ~65 commands, audio filters, playlists, vote-locking and a live web dashboard. Built with Node.js and discord.js v14.
-→ [ggbalcony](https://github.com/iamyakay/ggbalcony)
-
-**🧩 OpenFront Helper — browser extension**
-Contributing to an unofficial Chrome/Edge extension for openfront.io. Lobby auto-join with statistical forecasting, nuke/boat prediction overlays, economy heatmaps. I work on stability fixes and improvements in my fork.
-→ [openfront-helper](https://github.com/iamyakay/openfront-helper)
-
-**🛡️ Protector — moderation bot**
-Discord moderation bot in Python with discord.py — automod, mass moderation, tags, welcome messages, music, plus a Flask dashboard.
-
-**🌐 Web projects**
-Quiz pages, dashboards and small sites — plain HTML/CSS/JS when it's simple, React + TypeScript when it's not.
-→ [ICT-EXAM-CQ-QUIZ](https://github.com/iamyakay/ICT-EXAM-CQ-QUIZ) · [turf](https://github.com/iamyakay/turf) · [telecom](https://github.com/iamyakay/telecom)
-
-## Stuff I use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamyakay&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyakay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=iamyakay&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+[![GitHub](https://img.shields.io/badge/GITHUB-IAMYAKAY-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamyakay)
+[![Profile Views](https://komarev.com/ghpvc/?username=iamyakay&color=a855f7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/iamyakay)
+[![Followers](https://img.shields.io/github/followers/iamyakay?style=flat-square&color=a855f7&labelColor=181717)](https://github.com/iamyakay?tab=followers)
+[![Stars](https://img.shields.io/github/stars/iamyakay?style=flat-square&color=a855f7&labelColor=181717)](https://github.com/iamyakay)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
+
+<h2 align="center">💼 Professional Profile</h2>
+
 <div align="center">
 
-*Got a question or wanna collab? Open an issue on any of my repos.*
+```javascript
+const zap = {
+  name: "Zap",
+  username: "iamyakay",
+  role: ["Discord Bot Developer", "Web Developer", "Extension Builder"],
+  currentFocus: ["Fuzi Music Bot", "OpenFront Helper", "Protector"],
+  languages: ["Python", "JavaScript", "TypeScript", "Lua"],
+  motto: "Build. Ship. Repeat.",
+};
+```
+
+[![Discord Bots](https://img.shields.io/badge/🤖_DISCORD_BOT_DEVELOPMENT-181717?style=flat-square)](https://github.com/iamyakay/ggbalcony)
+[![Extensions](https://img.shields.io/badge/🧩_BROWSER_EXTENSIONS-181717?style=flat-square)](https://github.com/iamyakay/openfront-helper)
+[![Web](https://img.shields.io/badge/🌐_WEB_DEVELOPMENT-181717?style=flat-square)](https://github.com/iamyakay?tab=repositories)
+[![Automation](https://img.shields.io/badge/⚙️_AUTOMATION_%26_TOOLS-181717?style=flat-square)](https://github.com/iamyakay?tab=repositories)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
+
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,html,css,tailwind,lua&perline=9" alt="Languages & Frontend" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vite,express,flask,discord,git,github,vscode,windows,linux&perline=9" alt="Tools & Frameworks" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/PYTHON-181717?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-181717?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-181717?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/NODE.JS-181717?style=flat-square&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/REACT-181717?style=flat-square&logo=react&logoColor=61DAFB)
+![discord.js](https://img.shields.io/badge/DISCORD.JS-181717?style=flat-square&logo=discord&logoColor=5865F2)
+![discord.py](https://img.shields.io/badge/DISCORD.PY-181717?style=flat-square&logo=python&logoColor=5865F2)
+![Lua](https://img.shields.io/badge/LUA-181717?style=flat-square&logo=lua&logoColor=2C2D72)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
+
+<h2 align="center">🎯 Build Focus</h2>
+
+<div align="center">
+
+| 🤖 Discord Bots | 🧩 Browser Extensions | 🌐 Web Systems |
+|:---:|:---:|:---:|
+| Music bots with Lavalink, audio filters & dashboards. Moderation bots with automod & mass-mod tools. | Game helper overlays, lobby auto-join with statistical forecasting, prediction systems. | Dashboards, quiz apps and sites with React + TypeScript or plain HTML/CSS/JS. |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%"/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamyakay&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity graph" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamyakay&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f43f5e&icon_color=a855f7&count_private=true&include_all_commits=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyakay&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=f43f5e&langs_count=8" alt="Top languages by repo" />
+
+<br/><br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamyakay&theme=radical" alt="Top languages by commit" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamyakay&theme=radical&utcOffset=0" alt="Commits by time" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=iamyakay&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=f43f5e&currStreakLabel=a855f7" alt="Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=BUILD.%20SHIP.%20REPEAT.&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
 
 </div>

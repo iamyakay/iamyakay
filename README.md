@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:a78bfa&height=200&section=header&text=Y%20A%20K%20A%20Y&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BOTS%20%2F%20WEB%20%2F%20TOOLS&descSize=13&descAlignY=58" width="100%" alt="Yakay · Bots / Web / Tools" />
+<img src="./assets/starfield.svg" width="100%" alt="Yakay against an animated purple starfield" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1400&color=A78BFA&center=true&vCenter=true&width=440&height=40&lines=Discord+bots.+Browser+extensions.;Terminal+tools.+Late-night+commits.;Building+things+I+actually+use." alt="Discord bots, browser extensions and terminal tools" />
 
@@ -65,7 +65,15 @@ A terminal toolkit for discord.py. Scaffold bots, diagnose issues, compare and s
 
 <br/>
 
-<samp>02 / BEHIND THE CODE</samp>
+<samp>02 / CONTRIBUTIONS</samp>
+
+<div align="center">
+<img src="./assets/github-snake.svg" width="100%" alt="Animated snake moving through Yakay’s GitHub contribution grid" />
+</div>
+
+<br/>
+
+<samp>03 / BEHIND THE CODE</samp>
 
 Studying cybersecurity at Capital City College.  
 Building with Python, JavaScript, TypeScript and Lua.

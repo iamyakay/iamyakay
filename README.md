@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Y%20A%20K%20A%20Y&fontSize=80&fontColor=a78bfa&desc=BOTS%20%2F%20WEB%20%2F%20TOOLS&descSize=12&descAlignY=88" width="100%" alt="Yakay · Bots / Web / Tools" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:a78bfa&height=200&section=header&text=Y%20A%20K%20A%20Y&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BOTS%20%2F%20WEB%20%2F%20TOOLS&descSize=13&descAlignY=58" width="100%" alt="Yakay · Bots / Web / Tools" />
 
-I build Discord bots, browser extensions and tools I actually use.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1400&color=A78BFA&center=true&vCenter=true&width=440&height=40&lines=Discord+bots.+Browser+extensions.;Terminal+tools.+Late-night+commits.;Building+things+I+actually+use." alt="Discord bots, browser extensions and terminal tools" />
 
-<br/>
+<br/><br/>
 
 [![Stars](https://img.shields.io/github/stars/iamyakay?style=flat-square&logo=github&label=stars&color=a78bfa&labelColor=161b22)](https://github.com/iamyakay?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/iamyakay?style=flat-square&label=followers&color=a78bfa&labelColor=161b22)](https://github.com/iamyakay?tab=followers)
@@ -12,7 +12,7 @@ I build Discord bots, browser extensions and tools I actually use.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,lua,react,nodejs,linux,git&theme=dark" height="34" alt="Python, JavaScript, TypeScript, Lua, React, Node.js, Linux and Git" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,lua,react,nodejs,linux,git&theme=dark" height="36" alt="Python, JavaScript, TypeScript, Lua, React, Node.js, Linux and Git" />
 
 </div>
 
@@ -26,7 +26,7 @@ I build Discord bots, browser extensions and tools I actually use.
 
 ### [zreq ↗](https://github.com/iamyakay/zreq)
 
-A tiny HTTP client for the terminal. JSON-first, saved requests, environments and benchmarking. Zero dependencies.
+A tiny HTTP client for the terminal. Saved requests, environments and benchmarking. Zero dependencies.
 
 <img src="https://img.shields.io/github/stars/iamyakay/zreq?style=flat-square&label=stars&color=a78bfa&labelColor=161b22" alt="zreq stars" />
 
@@ -70,8 +70,12 @@ A terminal toolkit for discord.py. Scaffold bots, diagnose issues, compare and s
 Studying cybersecurity at Capital City College.  
 Building with Python, JavaScript, TypeScript and Lua.
 
----
+<div align="center">
 
-<p align="center">
-  <samp>Yakay / always a work in progress</samp>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2200&pause=2500&color=8B949E&center=true&vCenter=true&width=400&height=30&lines=yakay%40github%3A~%24+git+push;always+a+work+in+progress_" alt="Yakay · Always a work in progress" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6d28d9,100:a78bfa&height=85&section=footer" width="100%" alt="" />
+
+</div>

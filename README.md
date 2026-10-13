@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Y%20A%20K%20A%20Y&fontSize=80&fontColor=a78bfa&desc=BOTS%20%2F%20WEB%20%2F%20TOOLS&descSize=12&descAlignY=88" width="100%" alt="Yakay · Bots / Web / Tools" />
 
-I build Discord bots, browser extensions and tools I actually use. 
+I build Discord bots, browser extensions and tools I actually use.
 
 <br/>
 
